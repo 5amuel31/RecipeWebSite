@@ -18,7 +18,7 @@ Projeto exclusivo e gratuito, parte do curso Full-Stack promovido pela Rocketsea
 <br>
 
 <p align="center">
-  <img alt="Projeto Página Pessoal" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Site Receita" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
